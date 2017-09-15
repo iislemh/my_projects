@@ -1,0 +1,51 @@
+#films {
+	width: 726px;
+	 height: 543.5px; 
+	 position: absolute; 
+	 left: 0px; top: 0px; 
+	 transform: translate3d(0px, 0px, 0px); 
+	 background: url(../resources/imgs/content/films.jpg) no-repeat;
+}
+
+#films:hover {
+	background: url(../resources/imgs/content/filmsHover.jpg) no-repeat;
+}
+
+#programmation {
+	width: 726px; 
+	height: 543.5px; 
+	position: absolute; 
+	left: 0px; top: 0px; 
+	transform: translate3d(730px, 365px, 0px); 
+	background: url(../resources/imgs/content/programmation.jpg) no-repeat;
+}
+
+#programmation:hover {
+	background: url(../resources/imgs/content/programmationHover.jpg) no-repeat;
+}
+
+#histoire {
+	width: 726px; 
+	height: 543.5px; 
+	position: absolute; 
+	left: 0px; top: 0px; 
+	transform: translate3d(0px, 548px, 0px); 
+	background: url(../resources/imgs/content/histoire.jpeg) no-repeat;
+}
+
+#histoire:hover {
+	background: url(../resources/imgs/content/histoireHover.jpg) no-repeat;
+}
+
+#youtube {
+	width: 361px; height: 361px; 
+	position: absolute; 
+	left: 0px; 
+	top: 0px; 
+	transform: translate3d(730px, 0px, 0px);
+	background: url(../resources/imgs/content/youtube.png) no-repeat;
+}
+
+#youtube:hover {
+	background: url(../resources/imgs/content/youtubeHover.jpg) no-repeat;
+}

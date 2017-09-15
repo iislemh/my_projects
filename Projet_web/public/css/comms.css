@@ -1,0 +1,8 @@
+.comzone
+{
+	border: black 1px solid;
+	padding:1%;
+	width: 50%;
+	border-radius: 200px;
+	word-wrap:break-word;
+}

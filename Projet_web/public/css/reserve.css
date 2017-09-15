@@ -1,0 +1,9 @@
+#reservation
+{
+	/*display: inline-block;
+	text-align: right;*/
+	position: absolute;
+	margin: 0% 80%;
+	width: 10%;
+	font-weight: bold;
+}

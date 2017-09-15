@@ -1,0 +1,54 @@
+.imgprofil
+{
+	display: inline-block;
+	vertical-align: top;
+	width: 500px;
+	height: 500px;
+}
+
+
+.infos
+{
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 5%;
+	border: #68D2C3 1px solid;
+	padding: 1%;
+}
+
+.infos, label
+{
+	color: grey;
+	font-weight: bold;
+}
+
+#text
+{
+	display: inline-block;
+	vertical-align: top;
+}
+
+
+.formOverflow
+{
+	display: inline-block;
+	vertical-align: top;
+}
+
+
+.marre
+{
+	width:100px;
+	margin-left:5px;
+	width: 100px;
+	border-radius: 10px;
+}
+
+.marre2
+{
+	width:100px;
+	margin-left:5px;
+	width: 150px;
+	margin-top:5%;
+	border-radius: 10px;
+}

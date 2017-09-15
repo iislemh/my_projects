@@ -1,0 +1,42 @@
+body {
+  margin: 100px;
+  background-color: #1e262c;
+}
+
+table { 
+	margin : 10px auto auto auto;
+}
+
+table.tableau {
+    text-align: center;
+    height: 800px;
+    width: 1200px;
+}
+
+table.tableau td{
+    border: 1px solid black;
+    background-color: #69D2C3;
+    font-size: 14px;
+}
+
+table.tableau th{
+    color: #69D2C3;
+    font-size: 15px;
+}
+
+.titre {
+	text-align: center;
+	font-size: 30px;
+	font-family: "Apple Chancery", "Comic Sans MS", sans-serif;
+  color: #69D2C3;
+}
+
+.button {
+  display: block;
+  margin : auto;
+}
+
+.titrefilm {
+  font-family: "Comic Sans MS", sans-serif ;
+  font-weight: bold;
+}

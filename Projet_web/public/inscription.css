@@ -1,0 +1,16 @@
+.formu {
+	margin-left: 25%;
+}
+
+.titre {
+	text-decoration: underline;
+	margin-left: 25%;
+}
+
+.champ {
+	border-radius : 120px;
+}
+
+.input {
+	font-size: 17px;
+}
