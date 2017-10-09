@@ -12,7 +12,7 @@ Le dossier Projet_ios.tar.gz contient mon travail sur l'application Ios Jolicut
 Technologies utilisées : Xcode, Swift
 
 
-Le dossier php_mongodb.zip contient un projet que j'ai du réalisé avec mongodb
+Le dossier php_mongodb.zip contient un projet. L'utilisation de MongoDB était imposée.
 
 Technologies utilisées : PHP5, mongodb
 
